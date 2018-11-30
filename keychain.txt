@@ -1,0 +1,12 @@
+a->ssh test@a
+asasdgggf->ssh test@a
+asdfhf->ssh test@a
+asdgasgdsa->ssh testa2@test
+asf->ssh test@a
+asfasdf->ssh test@a
+asfasf->ssh test@a
+asfggggg->ssh test@test
+assvgbnhf->ssh test@a
+fgg->ssh test@a
+kajhsdfg->ssh alkjsdhf@lakjsdhf
+test ->ssh etst@te
