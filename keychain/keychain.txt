@@ -1,1 +1,1 @@
-example_alias->example_user@example_domain.com
+example_alias->ssh user@domain.com
